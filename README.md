@@ -1,4 +1,5 @@
 # Tacotron 2 And WaveGlow v1.10 For PyTorch
+# 한국어 수정중입니다.
 
 This repository provides a script and recipe to train Tacotron 2 and WaveGlow
 v1.6 models to achieve state of the art accuracy, and is tested and maintained by NVIDIA.

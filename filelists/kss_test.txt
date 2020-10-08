@@ -1,0 +1,202 @@
+korean_dataset/kss/4_2491.wav|일주일에 몇 시간이나 일하세요?
+korean_dataset/kss/1_1025.wav|나는 새해에는 담배를 끊겠다고 아들 녀석과 약속했다.
+korean_dataset/kss/4_1163.wav|문을 두드렸지만 아무 대답도 없었다.
+korean_dataset/kss/2_0606.wav|어느 아름다운 모델이 섹시한 포즈를 취하고 있다.
+korean_dataset/kss/4_2899.wav|학교 끝나고 정문에서 보자.
+korean_dataset/kss/3_0994.wav|당혹스러워 얼굴이 화끈거렸다.
+korean_dataset/kss/3_3220.wav|1년이 넘도록 실업자 신세예요.
+korean_dataset/kss/4_1113.wav|돈을 모두 써 버렸어.
+korean_dataset/kss/3_3159.wav|노인 부양은 큰 사회적 문제가 되었다.
+korean_dataset/kss/3_3720.wav|도로 표지판이 헷갈려요.
+korean_dataset/kss/1_0938.wav|국제회의에서는 흔히 영어가 쓰인다.
+korean_dataset/kss/3_0045.wav|저는 제가 직접 겪은 일에 대해서 씁니다.
+korean_dataset/kss/3_4143.wav|이미 7시가 넘었다.
+korean_dataset/kss/4_2194.wav|인천은 항구 도시예요.
+korean_dataset/kss/4_5114.wav|야외에 나오니 가슴이 탁 트이는 느낌이에요.
+korean_dataset/kss/3_4053.wav|내일 출발 비행기 티켓을 모레로 바꾸고 싶은데요.
+korean_dataset/kss/2_0449.wav|스트레스와 암은 밀접한 관련이 있다.
+korean_dataset/kss/4_5332.wav|제가 왜 이 남자랑 결혼했는지 모르겠어요.
+korean_dataset/kss/4_3794.wav|며칠 쉴 생각이에요.
+korean_dataset/kss/4_0633.wav|너 때문에 창피해 죽겠다.
+korean_dataset/kss/4_4620.wav|그 여자는 타고난 운동 선수였다.
+korean_dataset/kss/4_3929.wav|아침에 집을 좀 더 일찍 나서도록 노력해라.
+korean_dataset/kss/1_0611.wav|내가 그 문제 맞히면 뭐 줄 거야?
+korean_dataset/kss/4_1470.wav|나는 네 가는 손가락이 부러워.
+korean_dataset/kss/3_3695.wav|브레이크가 말을 듣지 않았어요.
+korean_dataset/kss/4_4196.wav|국어 시험에서 80점을 받았어요.
+korean_dataset/kss/4_4927.wav|내가 거기 간다고 무슨 소용이 있겠어?
+korean_dataset/kss/4_5060.wav|이 셔츠 구멍 났어요.
+korean_dataset/kss/4_0670.wav|철도 주변에서 놀지 마라.
+korean_dataset/kss/4_3853.wav|냉방이 되고 있는 건가요?
+korean_dataset/kss/4_4971.wav|턱이 아파서 음식을 잘 씹을 수가 없어요.
+korean_dataset/kss/1_0039.wav|화재가 발생하지 않도록 조심해라.
+korean_dataset/kss/3_1458.wav|의심의 여지 없이 리오넬 메시는 축구 천재이다.
+korean_dataset/kss/4_4132.wav|이번 주말에 부모님이 서울로 올라오실 거예요.
+korean_dataset/kss/2_0177.wav|만나 뵙게 되어 기쁘게 생각합니다.
+korean_dataset/kss/4_4354.wav|도로 위의 이 하얀 표시가 뭐예요?
+korean_dataset/kss/2_0348.wav|네가 한 말은 막연한 추측에 불과해.
+korean_dataset/kss/3_4022.wav|저는 매년 새로운 음악 악기를 배웁니다.
+korean_dataset/kss/4_3785.wav|길을 묻는 게 저한테는 너무 힘들어요.
+korean_dataset/kss/3_2862.wav|작사할 때 어디에서 영감을 얻으세요?
+korean_dataset/kss/4_5511.wav|영화관에서 전화기를 꺼 주세요.
+korean_dataset/kss/4_2428.wav|이다음이 네 차례야.
+korean_dataset/kss/4_5462.wav|내 평생 그런 여자는 다시 못 만날 거야.
+korean_dataset/kss/4_5100.wav|기뻐서 심장이 터질 것 같아요.
+korean_dataset/kss/4_5497.wav|저희는 연애한 지 2년 만에 결혼했어요.
+korean_dataset/kss/1_0666.wav|책임을 다른 사람에게 미루지 마세요.
+korean_dataset/kss/3_0044.wav|이 분야에서 경험보다 중요한 것은 없습니다.
+korean_dataset/kss/4_0465.wav|부엌의 불은 껐니?
+korean_dataset/kss/1_0759.wav|할아버지는 그런 일을 하시기에는 너무 늙으셨어.
+korean_dataset/kss/3_0880.wav|나는 예의 없는 사람이 제일 싫어.
+korean_dataset/kss/4_2733.wav|저는 여름은 좋아하지만 장마는 싫어요.
+korean_dataset/kss/4_1457.wav|담요로 몸을 감싸세요.
+korean_dataset/kss/3_4590.wav|어머니는 실제로는 일흔이지만 예순 전후로 보입니다.
+korean_dataset/kss/4_4103.wav|외할머니는 작년에 돌아가셨어요.
+korean_dataset/kss/4_0517.wav|그 여자는 분명 남자 친구가 있을 거야.
+korean_dataset/kss/4_3925.wav|여기에 두 줄로 나란히 서세요.
+korean_dataset/kss/4_3173.wav|한국에서 선생님들은 많은 존경을 받아요.
+korean_dataset/kss/4_4662.wav|그 여자는 스물에서 서른 사이인 것 같다.
+korean_dataset/kss/2_1138.wav|아들이 상을 받는 모습을 보니 마음이 흐뭇했어요.
+korean_dataset/kss/3_1166.wav|그 사람은 인내심이 아주 강하다.
+korean_dataset/kss/3_0344.wav|집안일에는 끝이 없다.
+korean_dataset/kss/4_5078.wav|매년 태풍으로 인한 재산 피해가 심각해요.
+korean_dataset/kss/4_1915.wav|마포구.
+korean_dataset/kss/3_3342.wav|지금이 벼를 베기에 가장 좋은 시기야.
+korean_dataset/kss/4_0589.wav|제가 개인적으로 책임지겠습니다.
+korean_dataset/kss/1_0636.wav|편하신 때로 자리를 마련하겠습니다.
+korean_dataset/kss/2_0063.wav|그녀는 걱정스러운 얼굴을 하고 있었다.
+korean_dataset/kss/4_3154.wav|조카가 몇 살이에요?
+korean_dataset/kss/1_0727.wav|주말에는 보통 집 밖으로 나오지 않아요.
+korean_dataset/kss/3_3409.wav|망치로 벽에 못 좀 박아 줄래?
+korean_dataset/kss/3_4159.wav|다음번에는 어머니와 같이 와야겠어.
+korean_dataset/kss/4_4829.wav|신용카드로 계산할게요.
+korean_dataset/kss/3_2748.wav|다음 주에 출국이에요.
+korean_dataset/kss/1_0608.wav|소영이는 벌써 일을 마치고 집에 돌아갔어요.
+korean_dataset/kss/4_2002.wav|이건 학교의 명예와 관계되는 일이에요.
+korean_dataset/kss/3_1364.wav|제가 처음 남편을 만났을 때, 남편은 대머리가 아니었어요.
+korean_dataset/kss/4_2711.wav|결혼하기 전에는 잠옷을 입고 자 본 적이 없어요.
+korean_dataset/kss/3_1982.wav|한국 사람들은 쉽게 지치는 여름날 삼계탕을 즐겨 찾는다.
+korean_dataset/kss/3_3076.wav|그는 음주 운전 혐의로 구속되었다.
+korean_dataset/kss/4_1288.wav|잘 모르는 사람이랑 있으면 좀 어색해요.
+korean_dataset/kss/1_0618.wav|우리 가족 누구도 우리 아버지를 막을 수 없다.
+korean_dataset/kss/3_0230.wav|사탕을 먹어 봐. 쓴맛이 좀 덜할 거야.
+korean_dataset/kss/4_2389.wav|매스컴의 역할 중 하나는 여론을 형성하는 것이다.
+korean_dataset/kss/4_3650.wav|내일 미술 수업에 뭘 가져와야 해요?
+korean_dataset/kss/4_5362.wav|음주 운전은 다른 사람의 생명을 위협하는 행위입니다.
+korean_dataset/kss/3_4632.wav|일기예보가 아무래도 틀린 듯하다.
+korean_dataset/kss/3_0050.wav|공주님의 탄생을 축하합니다!
+korean_dataset/kss/2_0780.wav|그녀의 미모는 여전했다.
+korean_dataset/kss/2_0041.wav|그 기억은 아직도 제 마음속에 강렬하게 남아 있어요.
+korean_dataset/kss/4_0212.wav|벌써 밤 11시야.
+korean_dataset/kss/1_0057.wav|스트레스 받는 일 있어?
+korean_dataset/kss/4_2226.wav|할아버지는 밤에 일찍 주무세요.
+korean_dataset/kss/3_3836.wav|오늘 아침은 안개가 자욱하다.
+korean_dataset/kss/2_0112.wav|내가 케이크를 공평하게 나눌게.
+korean_dataset/kss/4_1101.wav|아이는 누가 돌보고 있어요?
+korean_dataset/kss/4_2634.wav|한국에서는 인터넷 이용이 참 편해요.
+korean_dataset/kss/3_3770.wav|편도입니까, 왕복입니까?
+korean_dataset/kss/4_2966.wav|저희는 2년 전, 즉 2008년에 결혼했어요.
+korean_dataset/kss/4_4691.wav|차가 없어서 불편하시겠어요.
+korean_dataset/kss/3_1955.wav|카드로 결제해도 되나요?
+korean_dataset/kss/4_3102.wav|그 여성 작가는 여성의 사회적 지위를 높이는 데 크게 기여해 왔다.
+korean_dataset/kss/3_3332.wav|아버지는 하루 종일 밭에서 일하세요.
+korean_dataset/kss/4_5525.wav|저는 로봇 연구소에서 일하고 있습니다.
+korean_dataset/kss/3_1841.wav|그 예언은 오래 뒤에 현실이 되었다.
+korean_dataset/kss/4_1340.wav|응, 물론이지.
+korean_dataset/kss/3_3895.wav|호주의 내륙은 하나의 거대한 사막 지역이다.
+korean_dataset/kss/4_3996.wav|월요일 아침에는 늘 사람들이 여기에 늘어섭니다.
+korean_dataset/kss/4_2290.wav|그는 기자 회견을 열어 그 이상한 소문에 대해 설명할 예정이다.
+korean_dataset/kss/4_1418.wav|계산은 각자 합시다.
+korean_dataset/kss/3_3916.wav|여기는 일 년 내내 더워.
+korean_dataset/kss/4_4686.wav|먼저 가세요. 곧 따라갈게요.
+korean_dataset/kss/4_2380.wav|현 상황에 대해 어떻게 생각하세요?
+korean_dataset/kss/3_2049.wav|병 좀 따 봐.
+korean_dataset/kss/4_2172.wav|아이들이랑 함께 있어 줄래요?
+korean_dataset/kss/4_0018.wav|액세서리는 몇 층에 있어요?
+korean_dataset/kss/4_4068.wav|한 번만 눈감아 줘.
+korean_dataset/kss/4_2947.wav|우선 종이를 반으로 접으세요.
+korean_dataset/kss/4_2001.wav|저는 이 문제와 아무 관계가 없어요.
+korean_dataset/kss/1_0950.wav|저는 운전할 줄은 아는데 자전거를 탈 줄은 몰라요.
+korean_dataset/kss/4_0037.wav|아까부터 인터넷에서 뭘 찾고 있어요?
+korean_dataset/kss/4_3652.wav|시간 및 장소.
+korean_dataset/kss/3_2647.wav|회장은 다음 달에 물러날 예정이다.
+korean_dataset/kss/4_5538.wav|저는 연주할 줄 아는 악기가 하나도 없어요.
+korean_dataset/kss/3_1606.wav|정수는 유머 감각이 뛰어나서 사람들에게 인기가 많아요.
+korean_dataset/kss/3_2640.wav|부모님은 두 분 다 은퇴하셨어요.
+korean_dataset/kss/4_4022.wav|왜 나를 계속 놀리는 거예요?
+korean_dataset/kss/3_3323.wav|관광은 남극에서 급성장하고 있는 산업이다.
+korean_dataset/kss/3_0812.wav|반 학생들 모두 선생님의 농담에 웃음을 터뜨렸다.
+korean_dataset/kss/3_3259.wav|이제야 감을 좀 잡겠어요.
+korean_dataset/kss/3_0611.wav|집에 도달해서야 열쇠를 놓고 온 것을 알았어요.
+korean_dataset/kss/3_0496.wav|누가 서랍 잠갔어요?
+korean_dataset/kss/4_2570.wav|공군에 입대할까 생각 중이에요.
+korean_dataset/kss/4_3050.wav|졸다가 내릴 곳을 지나칠 뻔했어요.
+korean_dataset/kss/4_0200.wav|그 소문은 사실이 아닌 것으로 밝혀졌어요.
+korean_dataset/kss/3_4021.wav|결혼 10주년.
+korean_dataset/kss/1_0792.wav|엄마가 내게 돌아오라고 외쳤다.
+korean_dataset/kss/4_2308.wav|저희 회사 홈페이지 방문을 환영합니다.
+korean_dataset/kss/4_0021.wav|새 앨범은 언제 나오나요?
+korean_dataset/kss/4_3823.wav|이 지폐를 잔돈으로 좀 바꿔 주실 수 있나요?
+korean_dataset/kss/3_3289.wav|다보탑은 신라 시대의 유명한 석탑이다.
+korean_dataset/kss/3_1338.wav|그 정장을 입으니 세련돼 보이네요.
+korean_dataset/kss/4_3572.wav|나는 마루를 쓸 테니까 너는 닦아.
+korean_dataset/kss/1_0830.wav|이 사람들 중에서 5명만 뽑을 거야.
+korean_dataset/kss/4_2048.wav|한 번 더 그러시면 경찰에 신고할 거예요.
+korean_dataset/kss/3_4485.wav|가득 넣어 주세요.
+korean_dataset/kss/4_5107.wav|내일 아침에는 버스 터미널로 아버지 마중 나가야 해요.
+korean_dataset/kss/4_0158.wav|저는 중학교 때 배구 선수였어요.
+korean_dataset/kss/4_3186.wav|깨지기 쉬우니까 조심스럽게 다루어 주세요.
+korean_dataset/kss/4_0134.wav|미국에 가려면 영어를 할 줄 알아야 해요.
+korean_dataset/kss/3_0084.wav|이번 주 일요일에 할머니 칠순 잔치를 합니다.
+korean_dataset/kss/3_3910.wav|하루 종일 맑겠습니다.
+korean_dataset/kss/3_3767.wav|대중교통을 이용하는 게 어때요?
+korean_dataset/kss/4_3405.wav|저녁 식사에 내가 껴도 돼?
+korean_dataset/kss/3_4806.wav|음악을 듣고 있어요.
+korean_dataset/kss/4_3168.wav|각 학생들은 종이 한 장을 받게 될 겁니다.
+korean_dataset/kss/3_0485.wav|그는 가방에서 낡은 책 한 권을 끄집어냈다.
+korean_dataset/kss/4_4111.wav|왼쪽 아래에 있는 빨간 버튼을 누르세요.
+korean_dataset/kss/4_2094.wav|수업 끝나고 교문 앞에서 보자.
+korean_dataset/kss/4_0015.wav|애초에 시작하지 말았어야 했어요.
+korean_dataset/kss/4_2893.wav|요즘에는 전기밥솥으로 여러 가지 요리도 할 수 있어요.
+korean_dataset/kss/4_2234.wav|하여튼 고마워요.
+korean_dataset/kss/4_3834.wav|내 옷차림이 뭐가 잘못됐어?
+korean_dataset/kss/1_1008.wav|그는 기뻐서 울고 있다.
+korean_dataset/kss/3_1842.wav|아버지는 자신의 재산을 사회에 환원하겠다는 유언을 남기셨어요.
+korean_dataset/kss/3_4385.wav|이 복도는 폭이 너무 좁다.
+korean_dataset/kss/3_4700.wav|단순한 게 좋은 거예요.
+korean_dataset/kss/4_3990.wav|나는 네가 이 모임에 좀 더 능동적으로 참여했으면 좋겠어.
+korean_dataset/kss/4_3541.wav|샌드위치 만들어 줄까?
+korean_dataset/kss/4_4529.wav|이건 내 사생활이니까 상관하지 마세요.
+korean_dataset/kss/4_3425.wav|술을 많이 마신 후에는 꿀을 물에 타서 마셔 봐.
+korean_dataset/kss/1_0069.wav|복잡한 도시 지역을 벗어나니 참 좋군요.
+korean_dataset/kss/4_1725.wav|이 방법은 그야말로 100% 효과가 있어요.
+korean_dataset/kss/4_1444.wav|그 이야기에 많은 사람들이 감동을 받았다.
+korean_dataset/kss/4_0642.wav|이제 네 차례야.
+korean_dataset/kss/4_1069.wav|우리는 마침내 결론에 도달했다.
+korean_dataset/kss/2_0686.wav|다른 학생들 앞에서 말을 해야 했을 때 쑥스러워 죽는 줄 알았어요.
+korean_dataset/kss/3_0675.wav|힘든 하루였어요.
+korean_dataset/kss/3_4910.wav|잠깐 산책하러 나가지요.
+korean_dataset/kss/2_0719.wav|저희는 귀중품을 안전하게 보관해 드립니다.
+korean_dataset/kss/3_3105.wav|재소자들이 탈출을 시도했지만 성공하지 못했다.
+korean_dataset/kss/4_3155.wav|조건 없이 제안을 받아들일게요.
+korean_dataset/kss/4_0230.wav|나는 네 말에 반대한다.
+korean_dataset/kss/2_0554.wav|당신이 여태껏 들은 말 중에 제일 뻔한 거짓말은 무엇입니까?
+korean_dataset/kss/3_3271.wav|산업혁명은 급격한 기술의 진보를 가져왔다.
+korean_dataset/kss/3_1115.wav|아내는 창의성이 풍부합니다.
+korean_dataset/kss/1_0025.wav|색깔을 바꾸는 게 나을 거 같아.
+korean_dataset/kss/3_4503.wav|몽땅 다 먹은 거야?
+korean_dataset/kss/3_4755.wav|지난 12개월 동안 그 회사는 두드러진 성장을 보였다.
+korean_dataset/kss/4_2992.wav|수표로 지불해도 될까요?
+korean_dataset/kss/2_0985.wav|국이 짰나 봐. 계속 목이 마르네.
+korean_dataset/kss/4_5579.wav|백남준은 한국이 낳은 위대한 예술가였어요.
+korean_dataset/kss/4_4703.wav|사람들은 옛날만큼 CD를 많이 사지 않는다.
+korean_dataset/kss/4_3419.wav|책을 다시 꽂아 놓을게요.
+korean_dataset/kss/3_3278.wav|우리 대학은 백 년의 전통을 자랑한다.
+korean_dataset/kss/4_0807.wav|사진 촬영 금지.
+korean_dataset/kss/3_2071.wav|오늘 밤은 코가 삐뚤어지게 마셔 보자.
+korean_dataset/kss/4_0225.wav|바나나 껍질에 미끄러져서 무릎을 다쳤어요.
+korean_dataset/kss/4_0188.wav|바퀴 달린 의자는 별로 안 좋아해요.
+korean_dataset/kss/4_3993.wav|요즘 감기 환자가 늘어나고 있어요.
+korean_dataset/kss/4_4824.wav|요즘 신세대 사이에 이 책이 인기예요.
+korean_dataset/kss/4_4644.wav|스칠 때마다 그곳이 아파요.
+korean_dataset/kss/3_3189.wav|새 시스템은 보다 효율적입니다.

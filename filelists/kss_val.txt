@@ -1,0 +1,51 @@
+korean_dataset/kss/1_0793.wav|누군가 도와 달라고 외치는 것을 들었다.
+korean_dataset/kss/3_2186.wav|유리창이 너무 지저분해요.
+korean_dataset/kss/4_0850.wav|그럼, 컴퓨터에 대해 더 공부해 보는 게 어떠니?
+korean_dataset/kss/3_1299.wav|왜 그렇게 서둘러?
+korean_dataset/kss/3_0545.wav|창문에 기대지 마. 위험해.
+korean_dataset/kss/4_0620.wav|아래의 일정을 참조하세요.
+korean_dataset/kss/4_1830.wav|그 사람은 아내를 잃고 난 뒤 술로 괴로움을 달랬다.
+korean_dataset/kss/4_5264.wav|너 그 감자 튀김 다 먹을 거야?
+korean_dataset/kss/3_4102.wav|이내 도착할 거야.
+korean_dataset/kss/3_2025.wav|배불러서 더는 못 먹겠어.
+korean_dataset/kss/4_4748.wav|네 꿈이 실현되길 바란다.
+korean_dataset/kss/4_1747.wav|내 친구 지호 기억나?
+korean_dataset/kss/4_0326.wav|요즘 아이들은 정말 버릇이 없는 것 같아요.
+korean_dataset/kss/3_0587.wav|사람들은 마을 회관으로 이동했다.
+korean_dataset/kss/4_0337.wav|아기 옷 벗기는 것 좀 도와 줄래?
+korean_dataset/kss/3_1535.wav|그런 식으로 일을 그만둔 것은 경솔한 짓이었어요.
+korean_dataset/kss/3_0002.wav|다섯 명.
+korean_dataset/kss/3_2990.wav|한국에서는 만 19세에 투표권이 부여된다.
+korean_dataset/kss/3_5008.wav|닫히다.
+korean_dataset/kss/4_0924.wav|하루에 담배를 얼마나 피우세요?
+korean_dataset/kss/4_2333.wav|우리 삼촌은 화가예요.
+korean_dataset/kss/4_4760.wav|아직 그 정도 실력은 안 돼요.
+korean_dataset/kss/3_4756.wav|여기 분위기가 마음에 들어요.
+korean_dataset/kss/3_1515.wav|그렇게 말씀하시다니 매정하시네요.
+korean_dataset/kss/2_0722.wav|안타깝지만 저는 여기 머무를 수가 없습니다.
+korean_dataset/kss/3_3986.wav|졸업할 날이 얼마 안 남았다.
+korean_dataset/kss/1_0001.wav|그녀의 사랑을 얻기 위해 애썼지만 헛수고였다.
+korean_dataset/kss/3_3156.wav|오늘 아침 폭탄이 터져 열 명이 넘는 사람이 부상을 입었다.
+korean_dataset/kss/3_0974.wav|난 걔만 보면 가슴이 마구 뛰어.
+korean_dataset/kss/4_2705.wav|키우던 고양이가 죽어서 딸아이는 슬픔에 잠겨 있어요.
+korean_dataset/kss/3_3073.wav|그는 경찰에 쫓기고 있다.
+korean_dataset/kss/2_0874.wav|저는 외계인이 있다고 믿습니다.
+korean_dataset/kss/3_4728.wav|이 책은 읽을 가치가 없어.
+korean_dataset/kss/3_4791.wav|우리 둘뿐이야.
+korean_dataset/kss/4_1361.wav|저는 커서 가수가 되고 싶어요.
+korean_dataset/kss/3_4099.wav|부모님은 저의 장래에 큰 기대를 걸고 계세요.
+korean_dataset/kss/4_3096.wav|왜 그렇게 슬픈 표정을 짓고 있니?
+korean_dataset/kss/4_1571.wav|지금 막 검사 결과가 나왔습니다.
+korean_dataset/kss/4_5011.wav|이 고양이는 수컷이에요, 암컷이에요?
+korean_dataset/kss/4_2319.wav|이 호수는 얼마나 깊어요?
+korean_dataset/kss/2_0575.wav|이 책에는 새로운 것이 하나도 없어.
+korean_dataset/kss/4_4936.wav|밤새 눈이 많이 쌓였네.
+korean_dataset/kss/3_2321.wav|나는 도시에서 혼자 살고 부모님은 시골에 사셔.
+korean_dataset/kss/3_3284.wav|박물관은 연중 무휴입니다.
+korean_dataset/kss/3_4742.wav|평상시에 사용하기에 적당해 보이네요.
+korean_dataset/kss/3_2327.wav|그녀는 나를 가족처럼 대했다.
+korean_dataset/kss/3_3678.wav|이곳은 무료 와이파이 구역입니다.
+korean_dataset/kss/4_5248.wav|그 사람은 6층에서 뛰어내려 자살했다.
+korean_dataset/kss/3_0745.wav|비타민 제품을 고를 때 약사에게 조언을 구하세요.
+korean_dataset/kss/4_2233.wav|하얀 옷은 쉽게 더러워져요.
+korean_dataset/kss/4_1820.wav|이 고추는 정말 매운걸.

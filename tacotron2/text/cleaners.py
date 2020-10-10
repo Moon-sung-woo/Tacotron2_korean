@@ -15,6 +15,7 @@ hyperparameter. Some cleaners are English-specific. You'll typically want to use
 import re
 from unidecode import unidecode
 from .numbers import normalize_numbers
+from .korean import tokenize as ko_tokenize
 
 
 # Regular expression matching whitespace:
@@ -81,10 +82,9 @@ def transliteration_cleaners(text):
 
 
 def english_cleaners(text):
-  '''Pipeline for English text, including number and abbreviation expansion.'''
-  text = convert_to_ascii(text)
-  text = lowercase(text)
-  text = expand_numbers(text)
-  text = expand_abbreviations(text)
-  text = collapse_whitespace(text)
-  return text
+    '''Pipeline for Korean text, including number and abbreviation expansion.'''
+    #print('1')
+    #print(text)
+    text = ko_tokenize(text, as_id=False)
+    #print(text)
+    return text

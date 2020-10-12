@@ -290,7 +290,7 @@ To benchmark the training performance on a specific batch size, run:
         ```
 
 **WaveGlow**
-
+  
 * For 1 GPU
 	* FP16
         ```bash

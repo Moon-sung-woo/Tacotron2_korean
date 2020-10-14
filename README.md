@@ -332,9 +332,3 @@ The output log files will contain performance numbers for Tacotron 2 model
 (number of output mel-spectrograms per second, reported as `tacotron2_items_per_sec`)
 and for WaveGlow (number of output samples per second, reported as `waveglow_items_per_sec`).
 The `inference.py` script will run a few warmup iterations before running the benchmark.
-
-
-### Results
-
-The following sections provide details on how we achieved our performance
-and accuracy in training and inference.

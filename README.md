@@ -5,52 +5,33 @@
 ## Quick Start Guide
 
 한국어 데이터 셋 [KSSdataset](https://www.kaggle.com/bryanpark/korean-single-speaker-speech-dataset/data)을 사용했습니다.
+Nvidia와 달리 개인 도커 컨테이너에서 환경을 구성하여 실험했습니다.
 
 1. Clone the repository.
    ```bash
-   git clone 
+   git clone https://github.com/Moon-sung-woo/Tacotron2_korean.git
+   cd Tacotron2_korean
+   ```
+
+3. Download and preprocess the dataset.
+   로그인 하신 후 한국어 데이터 셋 [KSSdataset]을 받으시면 됩니다.
    
-   s://github.com/NVIDIA/DeepLearningExamples.git
-   cd DeepLearningExamples/PyTorch/SpeechSynthesis/Tacotron2
-   ```
+   3-1 preprecess_audio.py를 이용해 데이터를 전처리 해줍니다.
+   (https://github.com/Yeongtae/tacotron2)의 코드를 보고 사용했습니다.
+   
+   3-2 다음과 같이 경로를 만들어 줍니다.
+   Tacotron2_korean
+   ㄴ korean_dataset
+     ㄴ kss
+       ㄴ 1_0000.wav
+       ㄴ 1_0001.wav
+       
+    다음과 같이 wav파일들을 한번에 몰아서 넣어줍니다.
 
-2. Download and preprocess the dataset.
-Use the `./scripts/prepare_dataset.sh` download script to automatically
-download and preprocess the training, validation and test datasets. To run
-this script, issue:
-   ```bash
-   bash scripts/prepare_dataset.sh
-   ```
-
-   Data is downloaded to the `./LJSpeech-1.1` directory (on the host).  The
-   `./LJSpeech-1.1` directory is mounted to the `/workspace/tacotron2/LJSpeech-1.1`
-   location in the NGC container.
-
-3. Build the Tacotron 2 and WaveGlow PyTorch NGC container.
-   ```bash
-   bash scripts/docker/build.sh
-   ```
-
-4. Start an interactive session in the NGC container to run training/inference.
-After you build the container image, you can start an interactive CLI session with:
-
-   ```bash
-   bash scripts/docker/interactive.sh
-   ```
-
-   The `interactive.sh` script requires that the location on the dataset is specified.
-   For example, `LJSpeech-1.1`. To preprocess the datasets for Tacotron 2 training, use
-   the `./scripts/prepare_mels.sh` script:
-   ```bash
-   bash scripts/prepare_mels.sh
-   ```
-
-   The preprocessed mel-spectrograms are stored in the `./LJSpeech-1.1/mels` directory.
-
-5. Start training.
+4. Start training.
 To start Tacotron 2 training, run:
    ```bash
-   bash scripts/train_tacotron2.sh
+   python -m multiproc train.py -m Tacotron2 -o ./output4/ -lr 1e-3 --epochs 1501 -bs 4 --weight-decay 1e-6 --grad-clip-thresh 1.0 --cudnn-enabled --log-file nvlog.json --anneal-steps 500 1000 1500 --anneal-factor 0.1 --amp-run
    ```
 
    To start WaveGlow training, run:

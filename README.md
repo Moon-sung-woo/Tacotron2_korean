@@ -1,57 +1,37 @@
-# Tacotron 2 And WaveGlow v1.10 For PyTorch
+# NVIDIA/DeepLearningExamples의 코드를 사용했습니다.
 # 한국어 수정중입니다.
 
 
 ## Quick Start Guide
 
-To train your model using mixed precision with Tensor Cores or using FP32,
-perform the following steps using the default parameters of the Tacrotron 2
-and WaveGlow model on the [LJ Speech](https://keithito.com/LJ-Speech-Dataset/)
-dataset.
+한국어 데이터 셋 [KSSdataset](https://www.kaggle.com/bryanpark/korean-single-speaker-speech-dataset/data)을 사용했습니다.
+Nvidia와 달리 개인 도커 컨테이너에서 환경을 구성하여 실험했습니다.
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/NVIDIA/DeepLearningExamples.git
-   cd DeepLearningExamples/PyTorch/SpeechSynthesis/Tacotron2
+   git clone https://github.com/Moon-sung-woo/Tacotron2_korean.git
+   cd Tacotron2_korean
    ```
 
-2. Download and preprocess the dataset.
-Use the `./scripts/prepare_dataset.sh` download script to automatically
-download and preprocess the training, validation and test datasets. To run
-this script, issue:
-   ```bash
-   bash scripts/prepare_dataset.sh
-   ```
+3. Download and preprocess the dataset.
+   로그인 하신 후 한국어 데이터 셋 [KSSdataset]을 받으시면 됩니다.
+   
+   3-1 preprecess_audio.py를 이용해 데이터를 전처리 해줍니다.
+   (https://github.com/Yeongtae/tacotron2)의 코드를 보고 사용했습니다.
+   
+   3-2 다음과 같이 경로를 만들어 줍니다.
+   Tacotron2_korean
+   ㄴ korean_dataset
+     ㄴ kss
+       ㄴ 1_0000.wav
+       ㄴ 1_0001.wav
+       
+    다음과 같이 wav파일들을 한번에 몰아서 넣어줍니다.
 
-   Data is downloaded to the `./LJSpeech-1.1` directory (on the host).  The
-   `./LJSpeech-1.1` directory is mounted to the `/workspace/tacotron2/LJSpeech-1.1`
-   location in the NGC container.
-
-3. Build the Tacotron 2 and WaveGlow PyTorch NGC container.
-   ```bash
-   bash scripts/docker/build.sh
-   ```
-
-4. Start an interactive session in the NGC container to run training/inference.
-After you build the container image, you can start an interactive CLI session with:
-
-   ```bash
-   bash scripts/docker/interactive.sh
-   ```
-
-   The `interactive.sh` script requires that the location on the dataset is specified.
-   For example, `LJSpeech-1.1`. To preprocess the datasets for Tacotron 2 training, use
-   the `./scripts/prepare_mels.sh` script:
-   ```bash
-   bash scripts/prepare_mels.sh
-   ```
-
-   The preprocessed mel-spectrograms are stored in the `./LJSpeech-1.1/mels` directory.
-
-5. Start training.
+4. Start training.
 To start Tacotron 2 training, run:
    ```bash
-   bash scripts/train_tacotron2.sh
+   python -m multiproc train.py -m Tacotron2 -o ./output4/ -lr 1e-3 --epochs 1501 -bs 4 --weight-decay 1e-6 --grad-clip-thresh 1.0 --cudnn-enabled --log-file nvlog.json --anneal-steps 500 1000 1500 --anneal-factor 0.1 --amp-run
    ```
 
    To start WaveGlow training, run:
@@ -290,7 +270,7 @@ To benchmark the training performance on a specific batch size, run:
         ```
 
 **WaveGlow**
-
+  
 * For 1 GPU
 	* FP16
         ```bash
@@ -332,56 +312,3 @@ The output log files will contain performance numbers for Tacotron 2 model
 (number of output mel-spectrograms per second, reported as `tacotron2_items_per_sec`)
 and for WaveGlow (number of output samples per second, reported as `waveglow_items_per_sec`).
 The `inference.py` script will run a few warmup iterations before running the benchmark.
-
-
-### Results
-
-The following sections provide details on how we achieved our performance
-and accuracy in training and inference.
-
-## Release notes
-
-### Changelog
-
-June 2020
-* Updated performance tables to include A100 results
-
-March 2020
-* Added Tacotron 2 and WaveGlow inference using TensorRT Inference Server with custom TensorRT backend in `trtis_cpp`
-* Added Conversational AI demo script in `notebooks/conversationalai`
-* Fixed loading CUDA RNG state in `load_checkpoint()` function in `train.py`
-* Fixed FP16 export to TensorRT in `trt/README.md`
-
-January 2020
-* Updated batch sizes and performance results for Tacotron 2.
-
-December 2019
-* Added export and inference scripts for TensorRT. See [Tacotron2 TensorRT README](trt/README.md).
-
-November 2019
-* Implemented training resume from checkpoint
-* Added notebook for running Tacotron 2 and WaveGlow in TRTIS.
-
-October 2019
-* Tacotron 2 inference with torch.jit.script
-
-September 2019
-* Introduced inference statistics
-
-August 2019
-* Fixed inference results
-* Fixed initialization of Batch Normalization
-
-July 2019
-* Changed measurement units for Tacotron 2 training and inference performance
-benchmarks from input tokes per second to output mel-spectrograms per second
-* Introduced batched inference
-* Included warmup in the inference script
-
-June 2019
-* AMP support
-* Data preprocessing for Tacotron 2 training
-* Fixed dropouts on LSTMCells
-
-March 2019
-* Initial release

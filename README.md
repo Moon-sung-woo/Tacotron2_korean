@@ -1,5 +1,4 @@
 # NVIDIA/DeepLearningExamples의 코드를 사용했습니다.
-# 한국어 수정중입니다.
 
 
 ## Quick Start Guide
@@ -13,13 +12,13 @@ Nvidia와 달리 개인 도커 컨테이너에서 환경을 구성하여 실험�
    cd Tacotron2_korean
    ```
 
-3. Download and preprocess the dataset.
+2. Download and preprocess the dataset.
    로그인 하신 후 한국어 데이터 셋 [KSSdataset]을 받으시면 됩니다.
    
-   3-1 preprecess_audio.py를 이용해 데이터를 전처리 해줍니다.
+   2-1 preprecess_audio.py를 이용해 데이터를 전처리 해줍니다.
    (https://github.com/Yeongtae/tacotron2)의 코드를 보고 사용했습니다.
    
-   3-2 다음과 같이 경로를 만들어 줍니다.
+   2-2 다음과 같이 경로를 만들어 줍니다.
    Tacotron2_korean
    ㄴ korean_dataset
      ㄴ kss
@@ -28,7 +27,7 @@ Nvidia와 달리 개인 도커 컨테이너에서 환경을 구성하여 실험�
        
     다음과 같이 wav파일들을 한번에 몰아서 넣어줍니다.
 
-4. Start training.
+3. Start training.
 To start Tacotron 2 training, run:
    ```bash
    python -m multiproc train.py -m Tacotron2 -o ./output4/ -lr 1e-3 --epochs 1501 -bs 4 --weight-decay 1e-6 --grad-clip-thresh 1.0 --cudnn-enabled --log-file nvlog.json --anneal-steps 500 1000 1500 --anneal-factor 0.1 --amp-run
@@ -36,32 +35,10 @@ To start Tacotron 2 training, run:
 
    To start WaveGlow training, run:
    ```bash
-   bash scripts/train_waveglow.sh
+   !python -m multiproc train_w.py -m WaveGlow -o ./output/ -lr 1e-4 --epochs 1001 -bs 5 --segment-length  8000 --weight-decay 0 --grad-clip-thresh 65504.0 --cudnn-enabled --cudnn-benchmark --log-file nvlog.json --amp-run
    ```
 
-6. Start validation/evaluation.
-Ensure your loss values are comparable to those listed in the table in the
-[Results](#results) section. For both models, the loss values are stored in the `./output/nvlog.json` log file.
-
-   After you have trained the Tacotron 2 and WaveGlow models, you should get
-   audio results similar to the
-   samples in the `./audio` folder. For details about generating audio, see the
-   [Inference process](#inference-process) section below.
-
-   The training scripts automatically run the validation after each training
-   epoch. The results from the validation are printed to the standard output
-   (`stdout`) and saved to the log files.
-
-7. Start inference.
-After you have trained the Tacotron 2 and WaveGlow models, you can perform
-inference using the respective checkpoints that are passed as `--tacotron2`
-and `--waveglow` arguments. Tacotron2 and WaveGlow checkpoints can also be downloaded from NGC:
-
-   https://ngc.nvidia.com/catalog/models/nvidia:tacotron2pyt_fp16/files?version=3
-
-   https://ngc.nvidia.com/catalog/models/nvidia:waveglow256pyt_fp16/files?version=2
-
-   To run inference issue:
+4. Start inference.
 
    ```bash
    python inference.py --tacotron2 <Tacotron2_checkpoint> --waveglow <WaveGlow_checkpoint> --wn-channels 256 -o output/ -i phrases/phrase.txt --fp16

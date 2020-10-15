@@ -1,17 +1,16 @@
-# Tacotron 2 And WaveGlow v1.10 For PyTorch
+# NVIDIA/DeepLearningExamples의 코드를 사용했습니다.
 # 한국어 수정중입니다.
 
 
 ## Quick Start Guide
 
-To train your model using mixed precision with Tensor Cores or using FP32,
-perform the following steps using the default parameters of the Tacrotron 2
-and WaveGlow model on the [LJ Speech](https://keithito.com/LJ-Speech-Dataset/)
-dataset.
+한국어 데이터 셋 [KSSdataset](https://www.kaggle.com/bryanpark/korean-single-speaker-speech-dataset/data)을 사용했습니다.
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/NVIDIA/DeepLearningExamples.git
+   git clone 
+   
+   s://github.com/NVIDIA/DeepLearningExamples.git
    cd DeepLearningExamples/PyTorch/SpeechSynthesis/Tacotron2
    ```
 
